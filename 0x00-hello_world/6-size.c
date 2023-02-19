@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
- * Description: print the size of various types
+ * main - Print character size
+ *
  * Return:
  */
 int main(void)
