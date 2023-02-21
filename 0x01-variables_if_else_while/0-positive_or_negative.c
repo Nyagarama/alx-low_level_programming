@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  * main - Entry point
- * Description : print positive number, negative number or zero
+ * Description - print zero, positive, negative number
  * Return : Success (0)
  */
 int main(void)
