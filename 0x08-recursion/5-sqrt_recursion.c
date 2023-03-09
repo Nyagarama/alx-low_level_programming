@@ -5,7 +5,7 @@
  * @num: print the square root of number.
  * @root: The base to print the square root.
  * Return: (-1) if num does not have a natural square root.
- * 	(0) if num has a natural square root.
+ * (0) if num has a natural square root.
  */
 int print_sqrt(int num, int root)
 {
@@ -22,7 +22,7 @@ int print_sqrt(int num, int root)
  * _sqrt_recursion - Returns the natural square root of a number.
  * @n: number returns the square root of (n).
  * Return: (-1) if n does not have a natural square root.
- * 	(0) if n has a natural square root.
+ * (0) if n has a natural square root.
  */
 int _sqrt_recursion(int n)
 {
